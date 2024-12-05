@@ -5,11 +5,26 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'bossbabyjoobin/bossbabyjoobin',
+      // from data-repo-id
+      repoId: 'R_kgDONWxr5w',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDONWxr584Ck0ZJ',
+    }
+  }),
+],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "tripleS X": "https://x.com/triplescosmos",
+      "tripleS youtube": "https://www.youtube.com/@triplescosmos",
+      "tripleS discord": "https://discord.com/invite/triplescosmos",
     },
   }),
 }
