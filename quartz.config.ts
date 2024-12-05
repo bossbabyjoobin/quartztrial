@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "jb.sh.kt❧",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -57,6 +57,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.HardLineBreaks(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
@@ -77,6 +78,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
+      Plugin.Assets( ),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
