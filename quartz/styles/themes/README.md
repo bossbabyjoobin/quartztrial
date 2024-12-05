@@ -1,19 +1,19 @@
-# Minimal
+# Sanctum
 
-[Minimal](https://twitter.com/kepano)
+[Sanctum](https://github.com/jdanielmourao/)
 
 ## Usage
 
 ```bash
-just theme Minimal
+just theme Sanctum
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Minimal Light](preview-light.png)
+![Preview of Sanctum Light](preview-light.png)
 
 ### Dark
 
-![Preview of Minimal Dark](preview-dark.png)
+![Preview of Sanctum Dark](preview-dark.png)
