@@ -1,19 +1,19 @@
-# Sanctum
+# Catppuccin
 
-[Sanctum](https://github.com/jdanielmourao/)
+[Catppuccin](https://github.com/catppuccin/obsidian)
 
 ## Usage
 
 ```bash
-just theme Sanctum
+just theme Catppuccin
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Sanctum Light](preview-light.png)
+![Preview of Catppuccin Light](preview-light.png)
 
 ### Dark
 
-![Preview of Sanctum Dark](preview-dark.png)
+![Preview of Catppuccin Dark](preview-dark.png)
