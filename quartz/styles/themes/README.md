@@ -1,19 +1,19 @@
-# Catppuccin
+# Wasp
 
-[Catppuccin](https://github.com/catppuccin/obsidian)
+[Wasp](#)
 
 ## Usage
 
 ```bash
-just theme Catppuccin
+just theme Wasp
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Catppuccin Light](preview-light.png)
+![Preview of Wasp Light](preview-light.png)
 
 ### Dark
 
-![Preview of Catppuccin Dark](preview-dark.png)
+![Preview of Wasp Dark](preview-dark.png)
