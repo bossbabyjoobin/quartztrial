@@ -1,19 +1,19 @@
-# Typewriter
+# Prism
 
-[Typewriter](https://github.com/crashmoney)
+[Prism](https://github.com/damiankorcz)
 
 ## Usage
 
 ```bash
-just theme Typewriter
+just theme Prism
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Typewriter Light](preview-light.png)
+![Preview of Prism Light](preview-light.png)
 
 ### Dark
 
-![Preview of Typewriter Dark](preview-dark.png)
+![Preview of Prism Dark](preview-dark.png)
