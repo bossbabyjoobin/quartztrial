@@ -1,19 +1,19 @@
-# Prism
+# Default
 
-[Prism](https://github.com/damiankorcz)
+[Default](https://obsidian.md)
 
 ## Usage
 
 ```bash
-just theme Prism
+just theme Default
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Prism Light](preview-light.png)
+![Preview of Default Light](preview-light.png)
 
 ### Dark
 
-![Preview of Prism Dark](preview-dark.png)
+![Preview of Default Dark](preview-dark.png)
