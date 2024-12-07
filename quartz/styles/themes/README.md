@@ -1,19 +1,19 @@
-# Atom
+# AnuPpuccin
 
-[Atom](#)
+[AnuPpuccin](https://github.com/AnubisNekhet)
 
 ## Usage
 
 ```bash
-just theme Atom
+just theme AnuPpuccin
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Atom Light](preview-light.png)
+![Preview of AnuPpuccin Light](preview-light.png)
 
 ### Dark
 
-![Preview of Atom Dark](preview-dark.png)
+![Preview of AnuPpuccin Dark](preview-dark.png)
