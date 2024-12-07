@@ -1,19 +1,19 @@
-# Wasp
+# Things
 
-[Wasp](#)
+[Things](https://twitter.com/colineckert)
 
 ## Usage
 
 ```bash
-just theme Wasp
+just theme Things
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Wasp Light](preview-light.png)
+![Preview of Things Light](preview-light.png)
 
 ### Dark
 
-![Preview of Wasp Dark](preview-dark.png)
+![Preview of Things Dark](preview-dark.png)
