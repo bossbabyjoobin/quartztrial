@@ -1,19 +1,19 @@
-# Sanctum
+# Typewriter
 
-[Sanctum](https://github.com/jdanielmourao/)
+[Typewriter](https://github.com/crashmoney)
 
 ## Usage
 
 ```bash
-just theme Sanctum
+just theme Typewriter
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Sanctum Light](preview-light.png)
+![Preview of Typewriter Light](preview-light.png)
 
 ### Dark
 
-![Preview of Sanctum Dark](preview-dark.png)
+![Preview of Typewriter Dark](preview-dark.png)
