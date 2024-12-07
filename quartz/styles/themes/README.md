@@ -1,19 +1,19 @@
-# Things
+# Obsidianite
 
-[Things](https://twitter.com/colineckert)
+[Obsidianite](https://github.com/bennyxguo)
 
 ## Usage
 
 ```bash
-just theme Things
+just theme Obsidianite
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Things Light](preview-light.png)
+![Preview of Obsidianite Light](preview-light.png)
 
 ### Dark
 
-![Preview of Things Dark](preview-dark.png)
+![Preview of Obsidianite Dark](preview-dark.png)
