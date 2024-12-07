@@ -1,19 +1,19 @@
-# Obsidianite
+# Atom
 
-[Obsidianite](https://github.com/bennyxguo)
+[Atom](#)
 
 ## Usage
 
 ```bash
-just theme Obsidianite
+just theme Atom
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Obsidianite Light](preview-light.png)
+![Preview of Atom Light](preview-light.png)
 
 ### Dark
 
-![Preview of Obsidianite Dark](preview-dark.png)
+![Preview of Atom Dark](preview-dark.png)
