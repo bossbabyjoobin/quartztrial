@@ -1,19 +1,19 @@
-# AnuPpuccin
+# Sanctum
 
-[AnuPpuccin](https://github.com/AnubisNekhet)
+[Sanctum](https://github.com/jdanielmourao/)
 
 ## Usage
 
 ```bash
-just theme AnuPpuccin
+just theme Sanctum
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of AnuPpuccin Light](preview-light.png)
+![Preview of Sanctum Light](preview-light.png)
 
 ### Dark
 
-![Preview of AnuPpuccin Dark](preview-dark.png)
+![Preview of Sanctum Dark](preview-dark.png)
